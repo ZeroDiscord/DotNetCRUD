@@ -1,0 +1,137 @@
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\appsettings.json
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\COMMON_API.staticwebassets.runtime.json
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\COMMON_API.exe
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\COMMON_API.deps.json
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\COMMON_API.runtimeconfig.json
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\COMMON_API.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\COMMON_API.pdb
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anchal\Desktop\COMMON_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.csproj.AssemblyReference.cache
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.AssemblyInfoInputs.cache
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.AssemblyInfo.cs
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.csproj.CoreCompileInputs.cache
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\scopedcss\bundle\COMMON_API.styles.css
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.csproj.CopyComplete
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.dll
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\refint\COMMON_API.dll
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.pdb
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\COMMON_API.genruntimeconfig.cache
+C:\Users\anchal\Desktop\COMMON_API\obj\Debug\net6.0\ref\COMMON_API.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\appsettings.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\COMMON_API.staticwebassets.runtime.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\COMMON_API.staticwebassets.endpoints.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\COMMON_API.exe
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\COMMON_API.deps.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\COMMON_API.runtimeconfig.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\COMMON_API.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\COMMON_API.pdb
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.csproj.AssemblyReference.cache
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.AssemblyInfoInputs.cache
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.AssemblyInfo.cs
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.csproj.CoreCompileInputs.cache
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\scopedcss\bundle\COMMON_API.styles.css
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.csproj.Up2Date
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\refint\COMMON_API.dll
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.pdb
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\COMMON_API.genruntimeconfig.cache
+C:\Users\Aantriksh Sood\Desktop\DotNet-CRUD\obj\Debug\net6.0\ref\COMMON_API.dll

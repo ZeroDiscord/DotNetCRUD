@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../microApp/net-core-structure"
+		},
+		{
+			"path": "../wwwroot"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
